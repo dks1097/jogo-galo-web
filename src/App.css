@@ -1,0 +1,14 @@
+body{
+  background-color: darkslategray;
+  color: #dac1a8;
+}
+main{
+  width: 300px;
+margin: 50px auto 0;
+flex-direction: row;
+}
+map{
+  border-color: chocolate;
+  border-radius: 5;
+  width: 80%;
+}
